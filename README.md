@@ -19,3 +19,7 @@ Este proyecto fue creado por mi utilizando Vite y estilos de Bootswatch. Siénte
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme en Discord en **BooneDev#1961**
+
+## Test
+
+https://react-notes-boonedev.netlify.app/
